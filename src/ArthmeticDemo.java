@@ -12,7 +12,7 @@ public class ArthmeticDemo {
 
         Scanner input = new  Scanner (System.in);
 
-        System.out.print("Please enter an integer >>");
+               System.out.print("Please enter an integer >>");
         firstNumber = input.nextInt();
         System.out.print("Please enter another integer >>");
         secondNumber = input.nextInt();
