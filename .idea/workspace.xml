@@ -135,8 +135,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2633" />
-    <option name="y" value="80" />
+    <option name="x" value="354" />
+    <option name="y" value="130" />
     <option name="width" value="734" />
     <option name="height" value="867" />
   </component>
@@ -183,29 +183,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumbersDemo">
-    <configuration name="FixDebugTwo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FixDebugTwo1" />
+  <component name="RunManager" selected="Application.QuartsToGallonsInteractive">
+    <configuration name="CharDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharDemo" />
       <module name="Chapter 2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FixDebugTwo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FixDebugTwo2" />
+    <configuration name="MadLibs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MadLibs" />
       <module name="Chapter 2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FixDebugTwo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FixDebugTwo3" />
-      <module name="Chapter 2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="FixDebugTwo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FixDebugTwo4" />
+    <configuration name="NauticalMiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NauticalMiles" />
       <module name="Chapter 2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="NumbersDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumbersDemo" />
+      <module name="Chapter 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="QuartsToGallonsInteractive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuartsToGallonsInteractive" />
       <module name="Chapter 2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -251,19 +251,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.FixDebugTwo1" />
-      <item itemvalue="Application.FixDebugTwo2" />
-      <item itemvalue="Application.FixDebugTwo3" />
-      <item itemvalue="Application.FixDebugTwo4" />
+      <item itemvalue="Application.CharDemo" />
+      <item itemvalue="Application.MadLibs" />
+      <item itemvalue="Application.NauticalMiles" />
       <item itemvalue="Application.NumbersDemo" />
+      <item itemvalue="Application.QuartsToGallonsInteractive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuartsToGallonsInteractive" />
         <item itemvalue="Application.NumbersDemo" />
-        <item itemvalue="Application.FixDebugTwo4" />
-        <item itemvalue="Application.FixDebugTwo3" />
-        <item itemvalue="Application.FixDebugTwo2" />
-        <item itemvalue="Application.FixDebugTwo1" />
+        <item itemvalue="Application.NauticalMiles" />
+        <item itemvalue="Application.MadLibs" />
+        <item itemvalue="Application.CharDemo" />
       </list>
     </recent_temporary>
   </component>
